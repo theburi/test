@@ -1,2 +1,2 @@
 #!/bin/sh
-weave launch
+weave launch $1
