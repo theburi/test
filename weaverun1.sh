@@ -1,1 +1,1 @@
-﻿weave launch && weave launch-dns && weave launch-proxy
+weave launch
